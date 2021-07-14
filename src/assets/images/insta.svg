@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+  <title>Shape</title>
+  <desc>Created with Sketch.</desc>
+  <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="Footer-Desktop" transform="translate(-485.000000, -179.000000)">
+      <g id="Group-4">
+        <rect id="Rectangle-59" fill="#272525" x="0" y="0" width="1280" height="415"></rect>
+        <g id="Group-21" transform="translate(355.000000, 165.000000)">
+          <g id="Group-20" transform="translate(116.000000, 0.000000)">
+            <circle id="Oval-50-Copy-2" stroke="#FFFFFF" cx="22" cy="22" r="21.5"></circle>
+            <path d="M26,30 L18,30 C15.944,30 14,28.056 14,26 L14,18 C14,15.944 15.944,14 18,14 L26,14 C28.056,14 30,15.944 30,18 L30,26 C30,28.056 28.056,30 26,30 L26,30 Z" id="Shape" fill="#FFFFFF"></path>
+            <circle id="Oval" fill="#272525" cx="26.145" cy="17.892" r="1"></circle>
+            <path d="M22,26 C19.794,26 18,24.206 18,22 C18,19.794 19.794,18 22,18 C24.206,18 26,19.794 26,22 C26,24.206 24.206,26 22,26 L22,26 Z M22,20 C20.897,20 20,20.897 20,22 C20,23.103 20.897,24 22,24 C23.103,24 24,23.103 24,22 C24,20.897 23.103,20 22,20 L22,20 Z" id="Shape" fill="#272525"></path>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
