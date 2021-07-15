@@ -8,10 +8,10 @@ import Product from '../../components/Product';
 
 const ProductDetails = () => {
   const options = [
-    {value: 'Bottle A', selected: false},
-    {value: 'Bottle B', selected: false},
-    {value: 'Bottle C', selected: false},
-    {value: 'Bottle D', selected: false}
+    {value: 'Bottle A'},
+    {value: 'Bottle B'},
+    {value: 'Bottle C'},
+    {value: 'Bottle D'}
   ]
 
   return (
