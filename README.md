@@ -1,6 +1,6 @@
 # Front End test
 
-This project has been hosted to Netlify [Project Demo](https://catch-design.netlify.app/).
+This project has been hosted to Netlify [Project Demo](https://trofeo-estate.netlify.app/).
 
 ## Table of contents
 * [Instructions](#Instructions)
