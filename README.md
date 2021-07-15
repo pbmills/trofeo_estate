@@ -23,6 +23,8 @@ Run it
 $ npm run start # or yarn start
 ```
 
+Click on any of the Grid Products which will take you the inner detail page of the product design.
+
 ## Description
 This project is made for the interview purpose for a company.
 
