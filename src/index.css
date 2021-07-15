@@ -3,6 +3,43 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+    font-family: 'PTSerif-Regular';
+    src: url('./assets/fonts/PTSerif/PTSerif-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'PTSerif-Bold';
+    src: url('./assets/fonts/PTSerif/PTSerif-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url('./assets/fonts/Montserrat/Montserrat-Regular.ttf');
+}
+
 .container{
-  max-width: 1180px;
+    max-width: 1180px;
+}
+
+body{
+    font-family: 'PTSerif-Regular', sans-serif;
+}
+
+
+h1, h2{
+    font-family: 'PTSerif-Bold', sans-serif;
+}
+
+button, select, h3{
+    font-family: 'Montserrat-Regular', sans-serif;
+}
+
+
+.absolute-center-y{
+    transform: translateY(-50%);
+}
+
+.absolute-center-x{
+    transform: translateX(-50%);
 }

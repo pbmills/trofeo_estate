@@ -4,19 +4,26 @@ module.exports = {
   theme: {
     extend: {
       height: {
-        100: '25rem'
+        100: '25rem',
+        744: '744px'
       },
       width: {
-        'footer': '915px'
+        'footer': '915px',
       },
       colors: {
         brown: '#272525',
         darkBrown: '#222020',
+        yellow: '#FAC825',
+      },
+      padding: {
+        18: '4.5rem'
       }
     },
   },
   variants: {
-    extend: {},
+    extend: {
+      space: ['last'],
+    },
   },
   plugins: [],
 }

@@ -1,0 +1,16 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container{
+  max-width: 1180px;
+}
+
+.transform-y-center{
+  transform: translateY(-50%);
+}
+
+img{
+  max-width: 100%;
+}

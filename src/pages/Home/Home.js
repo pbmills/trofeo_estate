@@ -5,15 +5,15 @@ const Home = () => {
   return (
     <>
       <div className="container grid mx-auto mt-20 grid-cols-3 gap-12 mb-28">
-        <Product />
-        <Product />
-        <Product />
-        <Product />
-        <Product />
-        <Product />
-        <Product />
-        <Product />
-        <Product />
+        <Product subTitle='45$'/>
+        <Product subTitle='45$'/>
+        <Product subTitle='45$'/>
+        <Product subTitle='45$'/>
+        <Product subTitle='45$'/>
+        <Product subTitle='45$'/>
+        <Product subTitle='45$'/>
+        <Product subTitle='45$'/>
+        <Product subTitle='45$'/>
       </div>
     </>
   )
